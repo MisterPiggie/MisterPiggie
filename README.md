@@ -1,4 +1,9 @@
-## Hi there 👋
+## Matvey Vikanov
+
+Driven by desire to be great and build great stuff
+
+- Systems programmer, currently learning embedded
+- You can see my best projects in pinned repos
 
 <!--
 **MisterPiggie/MisterPiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
