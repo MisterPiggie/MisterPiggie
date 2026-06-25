@@ -1,8 +1,9 @@
 ## Matvey Vikanov
 
-Driven by desire to be great and build great stuff
+If i can't build it I don't know it
 
-- Systems programmer, currently learning embedded
+- Systems programmer
+- Currently learning embedded
 - You can see my best projects in pinned repos
 
 <!--
