@@ -1,10 +1,11 @@
 ## Matvey Vikanov
 
-If i can't build it I don't know it
+If I can't build it I don't know it
 
 - Systems programmer
 - Currently learning embedded
-- You can see my best projects in pinned repos
+
+You can see my best projects in pinned repos
 
 <!--
 **MisterPiggie/MisterPiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
